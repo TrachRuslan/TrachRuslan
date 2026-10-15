@@ -1,26 +1,42 @@
-# Ruslan Trach — Developer Portfolio
+# Руслан Трач — Портфоліо розробника
 
-A responsive personal portfolio for showcasing web development, Java backend, and SEO work.
+Персональне адаптивне портфоліо для презентації вебпроєктів, розробки на Java та робіт у сфері SEO.
 
-## Built with
-- HTML
-- CSS
-- Vanilla JavaScript
+## Про портфоліо
 
-## Run locally
-Open `index.html` in your browser.
+Сайт демонструє реалізовані проєкти, навички та технології, які я використовую під час створення вебсайтів і програмних рішень.
 
-## Publish with GitHub Pages
-1. Open the repository **Settings**.
-2. Select **Pages** in the sidebar.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the `main` branch and `/(root)`, then save.
-5. Wait for GitHub Pages to publish the site.
+## Технології
 
-## Before publishing
-- Replace `YOUR_EMAIL@example.com` in `index.html` with a professional contact email, or remove the email button.
-- Confirm project descriptions and links match the actual projects.
-- Add links to the live versions of your two websites.
-- Consider adding screenshots from the real projects.
+- HTML5
+- CSS3
+- JavaScript
+- Адаптивна верстка
+- Git та GitHub Pages
 
-Project descriptions are an initial draft and should be verified before using this portfolio for job applications.
+## Проєкти
+
+- **Pidgorognuy.com.ua** — вебсайт із фокусом на структурі контенту, представленні послуг та SEO.
+- **AngelBook** — цифрова платформа для збереження історій, фотографій і спогадів.
+- **AGROPARTS INDUSTRIAL** — концепція каталогу запчастин для сільськогосподарської техніки з пошуком за артикулом, OEM та SKU.
+- **DevSystem** — навчальний проєкт із розробки програмного забезпечення.
+
+## Локальний запуск
+
+1. Завантажте або клонуйте репозиторій.
+2. Відкрийте файл `index.html` у браузері.
+3. Для зручної розробки можна використовувати розширення Live Server у Visual Studio Code.
+
+## Публікація
+
+Портфоліо можна опублікувати за допомогою GitHub Pages:
+
+1. Відкрийте **Settings** репозиторію.
+2. Перейдіть до розділу **Pages**.
+3. У джерелі публікації виберіть гілку `main` і папку `/ (root)`.
+4. Збережіть налаштування та дочекайтеся публікації сайту.
+
+## Контакт
+
+GitHub: https://github.com/TrachRuslan
+Telegram: @Trach_R
